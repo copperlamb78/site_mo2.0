@@ -19,16 +19,6 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
-video {
-    border: 1rem solid rgb(97, 22, 22);
-    display: block;
-    margin: auto;
-    border-radius: 16px;
-    margin-top: 20rem;
-    width: 62.5rem;
-    height: 36rem;
-}
-
 body, input, textarea, button {
     font-family: "Kaushan Script", cursive;
     font-weight: 400;
@@ -40,9 +30,4 @@ body, input, textarea, button {
         background-size: auto;
     }
 
-    video {
-        width: 90%;
-        height: 14rem;
-        margin-bottom: 6rem;
-    }
 }
